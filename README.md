@@ -1,7 +1,7 @@
 **Original Forum Post**:
 https://forum.xrd.sh/viewtopic.php?p=5#p5
 
-# IDA Lumen Patcher (9.x)
+# IDA Lumina/Lumen Patcher (9.x)
 
 Just some Python scripts to kill the TLS cert pinning in IDA Pro 9.x so you can use custom Lumen servers again.
 https://github.com/naim94a/lumen
